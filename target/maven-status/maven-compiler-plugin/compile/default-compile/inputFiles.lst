@@ -1,0 +1,16 @@
+/Users/acraciun/Desktop/integration test/src/main/java/online/store/model/ProductCategory.java
+/Users/acraciun/Desktop/integration test/src/main/java/online/store/services/ProductsService.java
+/Users/acraciun/Desktop/integration test/src/main/java/online/store/model/Product.java
+/Users/acraciun/Desktop/integration test/src/main/java/online/store/repositories/OrderRepository.java
+/Users/acraciun/Desktop/integration test/src/main/java/online/store/services/CreditCardValidationService.java
+/Users/acraciun/Desktop/integration test/src/main/java/online/store/model/wrappers/ProductsWrapper.java
+/Users/acraciun/Desktop/integration test/src/main/java/online/store/exceptions/CreditCardValidationException.java
+/Users/acraciun/Desktop/integration test/src/main/java/online/store/services/OrdersService.java
+/Users/acraciun/Desktop/integration test/src/main/java/online/store/repositories/ProductCategoryRepository.java
+/Users/acraciun/Desktop/integration test/src/main/java/online/store/controllers/GlobalControllerExceptionHandler.java
+/Users/acraciun/Desktop/integration test/src/main/java/online/store/controllers/CheckoutController.java
+/Users/acraciun/Desktop/integration test/src/main/java/online/store/Application.java
+/Users/acraciun/Desktop/integration test/src/main/java/online/store/repositories/ProductRepository.java
+/Users/acraciun/Desktop/integration test/src/main/java/online/store/model/Order.java
+/Users/acraciun/Desktop/integration test/src/main/java/online/store/controllers/HomepageController.java
+/Users/acraciun/Desktop/integration test/src/main/java/online/store/model/CheckoutRequest.java

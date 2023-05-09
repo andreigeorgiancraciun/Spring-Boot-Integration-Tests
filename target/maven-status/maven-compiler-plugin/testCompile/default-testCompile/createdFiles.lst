@@ -1,0 +1,9 @@
+online/store/store/services/CreditCardValidationServiceTest.class
+online/store/store/services/ProductsServiceTest.class
+online/store/store/controllers/HomepageControllerTest.class
+online/store/store/controllers/HomepageControllerIT.class
+online/store/store/ApplicationIT.class
+online/store/store/controllers/CheckoutControllerIT.class
+online/store/store/repositories/ProductRepositoryIT.class
+online/store/store/controllers/CheckoutControllerTest.class
+online/store/store/services/OrdersServiceTest.class
